@@ -6,7 +6,7 @@ A dynamic and interactive Power BI dashboard designed to analyze and visualize t
 
 ## Project Overview
 
-This project involves the creation of a comprehensive dashboard that tracks key performance indicators (KPIs) for influencer marketing campaigns. The dashboard synthesizes data from multiple platforms (Instagram, TikTok, YouTube, Threads) to answer critical business questions about audience size, content engagement and influencer tier performance.
+This project involves the creation of a dashboard that tracks key performance indicators (KPIs) for influencer marketing campaigns. The dashboard synthesizes data from multiple platforms (Instagram, TikTok, YouTube, Threads) to answer critical business questions about audience size, content engagement and influencer performance.
 
 **Key Questions Answered:**
 - What is the total potential reach and average engagement rate of our influencer portfolio?
