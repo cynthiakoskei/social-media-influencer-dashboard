@@ -17,10 +17,11 @@ This project involves the creation of a comprehensive dashboard that tracks key 
 ## Tools & Technologies
 
 - **Data Visualization:** Microsoft Power BI
-- **Data Processing:** Power Query (M Language)
-- **Dashboard Design:** Custom DAX measures, interactive slicers, and thematic formatting
+- **Data Processing:** Power Query
+- - **Data Cleaning:** SQL 
+- **Dashboard Design:** Custom DAX measures, interactive slicers and thematic formatting
 - **Version Control:** Git / GitHub
-- **Documentation:** Markdown
+
 
 ## Project Highlights & Features
 
