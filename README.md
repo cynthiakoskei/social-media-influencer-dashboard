@@ -2,7 +2,7 @@
 
 A dynamic and interactive Power BI dashboard designed to analyze and visualize the performance of a portfolio of social media influencers. This tool helps marketing teams make data-driven decisions by providing clear insights into reach, engagement and platform effectiveness.
 
-![Dashboard Preview](images/dashboard-preview.png) *(You will add a screenshot here)*
+![Dashboard Preview](images/image-preview.png) 
 
 ## Project Overview
 
